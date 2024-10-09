@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f78816ef-c0a2-4771-ae68-37367e772aad" alt="drawing" width="300"/>
+<img src="" alt="drawing" width="300"/>
 
 # Personalised-Content-Generation-using-Gen-Ai
 Leverage generative AI to create personalized marketing content for customers, enhancing their engagement and experience with the bank.
