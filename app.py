@@ -34,8 +34,8 @@ platform = st.sidebar.selectbox(
 
 
 content_type = st.sidebar.radio(
-    "Select Content type:",
-    ["Post Caption", "Comment", "Recommendation"],index=None,
+    "**Select Content type:**",
+    ["Post","Advertisement", "Comment", "Recommendation"],index=None,
 )
 
 
@@ -52,7 +52,7 @@ output_size = (st.slider("**Select the Content Word Count:**", 0, 500, 200, 50))
 #     ["Creative", "Descriptive", "Logical", "Joyful"],index=None,
 # )
 
-platform = st.selectbox(
+content_level = st.selectbox(
     "**Select your content category**",
     ("Creative", "Descriptive", "Logical", "Joyful"),index=None,
 )
